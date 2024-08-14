@@ -1,0 +1,21 @@
+LAS CLASES EN JAVA SE CREAN DE LA SIGUIENTE MANERA:
+
+puclic class COCHE{
+
+------------------- [METODOS Y ATRIBUTOS]
+-------------------
+-------------------
+
+}
+
+public class [MODIFICADOR DE ACCESO] {MAYORIA DE CLASES}
+
+COCHE [NOMBRE DE LA CLASE]
+
+LOS OBJETOS EN JAVA SE CREAN DE LA SIGUIENTE MANERA:
+
+COCHE COCHE_1 = new COCHE();
+
+COCHE COCHE_2 = new COCHE();
+
+COCHE COCHE_3 = new COCHE();
